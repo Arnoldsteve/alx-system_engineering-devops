@@ -1,0 +1,1 @@
+Studying on shell redirections
